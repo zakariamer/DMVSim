@@ -7,7 +7,7 @@ public class DmvSimulator {
 
         SecureRandom random = new SecureRandom();
 
-        int num = random.nextInt(100) + 1;
+        int num = random.nextInt(200) + 1;
         int counter = num + 1;
         System.out.println("Your number is " + num + ", please wait for your number to be called");
 
