@@ -24,7 +24,7 @@ public class DmvSimulator {
         int chance = random.nextInt(100) + 1;
 
         if (chance != 1) {
-            System.out.println("Oh sorry number " + num + " but you don't have the necessary paperwork, get out now before I make you! and have you arrested!");
+            System.out.println("Oh sorry number " + num + " but you don't have the necessary paperwork, get out now before I make you! and have you arrested! MWHAAHHAHAHAAH");
         } else {
             System.out.println("You have ur paper work! You're all set");
         }
