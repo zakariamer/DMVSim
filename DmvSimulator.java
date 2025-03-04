@@ -20,7 +20,7 @@ public class DmvSimulator {
             }
         }
         System.out.println("May number " + num + " please come up");
-        System.out.println("Oh sorry number " + num + " but you don't have the necessary paperwork, bye");
+        System.out.println("Oh sorry number " + num + " but you don't have the necessary paperwork, get out now before I make you!");
     }
 
 }
